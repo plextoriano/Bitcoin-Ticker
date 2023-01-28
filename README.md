@@ -7,18 +7,18 @@ Bitcoin Ticker is Arduino code for ESP32 boards. This ticker displays the price 
 ## Hardware
 
 * 0.96 Inch OLED Module 12864 128x64 Yellow Blue SSD1306 Driver I2C IIC Serial Self-Luminous Display Board
-<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/OLED.png" width=50% height=50%>
+<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/OLED.jpg" width=50% height=50%>
 
 * ESP32 ESP-32S Development Board
-<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/ESP32.png" width=50% height=50%>
+<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/ESP32.jpg" width=50% height=50%>
 
 ## Schema
 
 <img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Schematic.png" width=50% height=50%>
 
-<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Front.png" width=50% height=50%>
+<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Front.jpg" width=50% height=50%>
 
-<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Back.png" width=50% height=50%>
+<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Back.jpg" width=50% height=50%>
 
 
 
