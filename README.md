@@ -1,6 +1,6 @@
 # Bitcoin Ticker
 
-NOT FOR COMMERCIAL USE Please reach out to me if you'd like to use it commercially. I am willing to come to an agreement.
+**NOT FOR COMMERCIAL USE** Please reach out to me if you'd like to use it commercially. I am willing to come to an agreement.
 
 Bitcoin Ticker is Arduino code for ESP32 boards. This ticker displays the price of Bitcoin/USD and idicates whether the crypto currency went up or down. The price data comes from the CoinMarketCap API.
 ___
@@ -18,7 +18,7 @@ ___
 
 ## Schema
 
-<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Schematic.png" width=70% height=70%>
+<img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Schematic.png" width=80% height=80%>
 
 <p float="left">
     <img src="https://github.com/plextoriano/Bitcoin-Ticker/blob/main/images/Front.jpg" width=40% height=40% />
