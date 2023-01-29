@@ -1,0 +1,153 @@
+{
+  "uuid": "fb02dbdd286d6595d2816a0ca367b511",
+  "path": "Offline/Bitcoin%20Ticker",
+  "name": "Bitcoin Ticker",
+  "content": "",
+  "created_at": "2022-12-29 17:19:52",
+  "updated_at": "2023-01-28 20:14:53",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cbfd0d6c1572b922ecfdf865122da1c1",
+      "title": "PCB Bitcoin Ticker",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "595cc997b46b4b65997c84de583f2b80": 1,
+        "80758d6720ec4552a5d58946e47ba326": 1,
+        "62c075b247a542258e0e707f01a0e277": 2,
+        "c7388c75eb204333953c3cecbc4d3ece": 1,
+        "4c4babdcb6e943a8985ac2f2622232fd": 1,
+        "d2c843ba09a2482899de4a789b329705": 2,
+        "7f226734c7904fb2b44b830708f5eb81": 1,
+        "2a76883acf1446e79526185b4dc2da02": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "5mm",
+          2,
+          "PKG-LED-5MM-RED",
+          "D1,D2",
+          {
+            "BOM_Manufacturer": "KINGBRIGHT",
+            "BOM_Manufacturer Part": "L-1503EC",
+            "BOM_Supplier Part": "1003201",
+            "BOM_Supplier": "Element14",
+            "puuid": "42aa1e8fa1fd48f58778ec03a0c959b4",
+            "uuid": "c7388c75eb204333953c3cecbc4d3ece"
+          }
+        ],
+        [
+          "2PIN",
+          2,
+          "2PIN",
+          "PIN1,PIN2",
+          {
+            "BOM_Manufacturer Part": "New SchematicLib",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "d8b73f5a31a04ad68304fa3863216ed8",
+            "uuid": "d2c843ba09a2482899de4a789b329705"
+          }
+        ],
+        [
+          "330",
+          2,
+          "RESISTANCE 1/4W",
+          "R1,R2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "2ca06800663b4741a7e2126a7ffdd5bd",
+            "uuid": "62c075b247a542258e0e707f01a0e277"
+          }
+        ],
+        [
+          "ESP32-DOIT-DEVKIT-V1_BYYOONKI",
+          1,
+          "ESP32-DOIT-DEVKIT-V1_BYYOONKI",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "ESP32_DOIT_DEVKIT_30_PIN",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "2ec4a50f25e54e5a9086d576e29364a7",
+            "uuid": "595cc997b46b4b65997c84de583f2b80"
+          }
+        ],
+        [
+          "HEADER_6_PINS",
+          1,
+          "HEADER_6_PINS",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "3b92300f04a74671b279d76d80086f36",
+            "uuid": "80758d6720ec4552a5d58946e47ba326"
+          }
+        ],
+        [
+          "OLED 128X64 0,96\" I2C 4pin copy",
+          1,
+          "I2C - OLED 0.96\" 128X64",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "SSD1306 I2C OLED",
+            "puuid": "67297980ac83489fb44e8ef96336875a",
+            "uuid": "7f226734c7904fb2b44b830708f5eb81"
+          }
+        ]
+      ],
+      "updateTime": 1674932184,
+      "createTime": 1672330792,
+      "histories": [],
+      "created_at": "2022-12-29 17:19:52",
+      "updated_at": "2023-01-28 19:56:24"
+    },
+    {
+      "uuid": "572b58d86e6cf3bd723bc8186270559b",
+      "puuid": "fb02dbdd286d6595d2816a0ca367b511",
+      "title": "PCB_Bitcoin Ticker",
+      "filename": "PCB_Bitcoin Ticker.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "42aa1e8fa1fd48f58778ec03a0c959b4": 2,
+        "d8b73f5a31a04ad68304fa3863216ed8": 2,
+        "67297980ac83489fb44e8ef96336875a": 1,
+        "2ca06800663b4741a7e2126a7ffdd5bd": 2,
+        "e08d97a2ea17467a877f0393c1fab9c0": 4,
+        "2ec4a50f25e54e5a9086d576e29364a7": 1,
+        "3b92300f04a74671b279d76d80086f36": 1
+      },
+      "BOM": [],
+      "updateTime": 1674933293,
+      "createTime": 1672335175,
+      "histories": [],
+      "created_at": "2022-12-29 18:32:55",
+      "updated_at": "2023-01-28 20:14:53"
+    }
+  ],
+  "sort": [],
+  "title": "Bitcoin Ticker",
+  "foldername": "Bitcoin Ticker",
+  "schfilename": "Bitcoin Ticker.json",
+  "schfilemtime": 1674932205126
+}
